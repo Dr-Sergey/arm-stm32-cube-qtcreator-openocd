@@ -7,7 +7,7 @@ In this chapter, we will start on-chip debugger with help QtCreator IDE. Also, y
 
 2. Click **Projects** on the left pane.  
 - Go to STM32 -> Build and make setup as on picture below
-![deb_build_set](img/tut_run_settings.png)  
+![deb_build_set](img/tut_build_settings.png)  
 - Go to STM32 -> Run. Add configuration **Custom Executable (on GDB server or hardware debugger)** by clicking on **Add** button.  
 ![deb_run_set](img/tut_run_settings.png)  
 Also, rename it to _ARM with GDB_  
